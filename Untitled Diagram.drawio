@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T14:01:29.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="jP-H-CCHu2GJ84lL4-Ye" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-02T14:02:27.511Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="j6D48IcKIKGRLasaMaG7" version="14.9.3" type="github">
   <diagram id="pQ-mQGiehcReT5hZOpBR" name="Page-1">
     <mxGraphModel dx="2207" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,7 +213,7 @@
         <mxCell id="LTmt9nos-p75ERaRz-Tp-93" value="Elastic File Service" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="850" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LTmt9nos-p75ERaRz-Tp-94" value="Elastic File Service" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LTmt9nos-p75ERaRz-Tp-94" value="Elastic File Service" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="59" y="850" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
