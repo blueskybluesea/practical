@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-13T03:26:15.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="H-0gadQGudtJwIv-i8iF" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-13T03:27:05.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="FstSVKNMaVaTF9hUhUVL" version="14.9.3" type="github">
   <diagram id="pQ-mQGiehcReT5hZOpBR" name="Page-1">
     <mxGraphModel dx="2000" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="LTmt9nos-p75ERaRz-Tp-37" value="AWS Elastic Beanstalk&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="65IU314qtycd1KhEnbtt-5" vertex="1">
           <mxGeometry y="85" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ooA-Sr7LboeFShkX4qgm-4" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" parent="1" vertex="1">
-          <mxGeometry x="320" y="440" width="240" height="400" as="geometry" />
         </mxCell>
         <mxCell id="LTmt9nos-p75ERaRz-Tp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ooA-Sr7LboeFShkX4qgm-8" target="ooA-Sr7LboeFShkX4qgm-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -80,6 +77,9 @@
         </mxCell>
         <mxCell id="0O99mEVxy6z-FhVjCe1j-1" value="Availability Zone #n" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" vertex="1" parent="1">
           <mxGeometry x="430" y="460" width="240" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ooA-Sr7LboeFShkX4qgm-4" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" parent="1" vertex="1">
+          <mxGeometry x="320" y="440" width="240" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
