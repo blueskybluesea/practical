@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-13T03:27:22.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="UiSgrK5XAB0dAG5j8Hqq" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-13T03:28:28.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="SSmTiqoNz4tOpHMdtNFy" version="14.9.3" type="github">
   <diagram id="pQ-mQGiehcReT5hZOpBR" name="Page-1">
     <mxGraphModel dx="2000" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-200" y="240" width="960" height="680" as="geometry" />
         </mxCell>
         <mxCell id="ooA-Sr7LboeFShkX4qgm-2" value="Region" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="410" width="800" height="470" as="geometry" />
+          <mxGeometry x="-120" y="410" width="840" height="470" as="geometry" />
         </mxCell>
         <mxCell id="ooA-Sr7LboeFShkX4qgm-3" value="Active Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" parent="1" vertex="1">
           <mxGeometry x="-40" y="440" width="240" height="400" as="geometry" />
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="ooA-Sr7LboeFShkX4qgm-4" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" parent="1" vertex="1">
           <mxGeometry x="320" y="440" width="240" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0O99mEVxy6z-FhVjCe1j-2" value="Elastic Beanstalk container" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_elastic_beanstalk;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="-67" y="470" width="750" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
